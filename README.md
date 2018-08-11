@@ -17,7 +17,7 @@ The fetched result shows the pets image , adresses,contactand shelter id.
 ![Image](https://github.com/GaneshSrambikal/Pet-Search-web-app/blob/master/ss.png)
 <p align="center">
   <img src="https://github.com/GaneshSrambikal/Pet-Search-web-app/blob/master/ss.png" width="350" title="hover text">
-  
+  [[https://github.com/GaneshSrambikal/Pet-Search-web-app/blob/master/ss.png|alt=image]]
 </p>
 
 
