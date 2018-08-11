@@ -15,7 +15,10 @@ The fetched result shows the pets image , adresses,contactand shelter id.
 
 ## Some Screenshots of the app
 ![Image](https://github.com/GaneshSrambikal/Pet-Search-web-app/blob/master/ss.png)
-
+<p align="center">
+  <img src="https://github.com/GaneshSrambikal/Pet-Search-web-app/blob/master/ss.png" width="350" title="hover text">
+  
+</p>
 
 
 
