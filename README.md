@@ -1,4 +1,6 @@
-## Pet Search Web App ##### by ### Ganesh Srambikal
+## Pet Search Web App 
+##### by 
+### Ganesh Srambikal
 
 ### frontend : html, css, javascript
 ### Backend : --
