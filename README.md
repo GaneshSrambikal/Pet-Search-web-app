@@ -2,7 +2,7 @@
 
 
 ### frontend : -Bulleted html, css, javascript
-###bundler : -parcel 
+###bundler : parcel 
 ### API : petFinder API [link](https://www.petfinder.com/developers/api-key)
 ### API Documentation : [link](https://www.petfinder.com/developers/api-docs) 
 
