@@ -1,14 +1,13 @@
 ## Pet Search Web App 
-##### by 
-### Ganesh Srambikal
-
-### frontend : html, css, javascript
-### Backend : --
-### API : petFinder API [link](https://www.petfinder.com/developers/api-key)
-### API Documentation : [link](https://www.petfinder.com/developers/api-docs) 
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-### frontend : html, css, javascript
+-###bundler : parcel 
+-### API : petFinder API [link](https://www.petfinder.com/developers/api-key)
+-### API Documentation : [link](https://www.petfinder.com/developers/api-docs) 
+
+
+
 
 ### Markdown
 
