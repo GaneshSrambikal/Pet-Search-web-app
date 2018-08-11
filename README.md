@@ -1,10 +1,10 @@
 ## Pet Search Web App 
 
 
--### frontend : html, css, javascript
--###bundler : parcel 
--### API : petFinder API [link](https://www.petfinder.com/developers/api-key)
--### API Documentation : [link](https://www.petfinder.com/developers/api-docs) 
+### frontend : -Bulleted html, css, javascript
+###bundler : -parcel 
+### API : petFinder API [link](https://www.petfinder.com/developers/api-key)
+### API Documentation : [link](https://www.petfinder.com/developers/api-docs) 
 
 
 
