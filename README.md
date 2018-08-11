@@ -1,6 +1,10 @@
-## Pet Search Web App 
+## Pet Search Web App ##### by ### Ganesh Srambikal
 
-You can use the [editor on GitHub](https://github.com/GaneshSrambikal/Pet-Search-web-app/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### frontend : html, css, javascript
+### Backend : --
+### API : petFinder API [link](https://www.petfinder.com/developers/api-key)
+### API Documentation : [link](https://www.petfinder.com/developers/api-docs) 
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
