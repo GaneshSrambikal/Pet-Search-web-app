@@ -15,7 +15,7 @@ The fetched result shows the pets image , adresses,contactand shelter id.
 
 ##Some Screenshots of the app
 ###HomePage
-![Image]()
+![Image](https://github.com/GaneshSrambikal/Pet-Search-web-app/blob/master/ss_home.jpg)
 ###ResultPage
 ![Image]()
 ```markdown
