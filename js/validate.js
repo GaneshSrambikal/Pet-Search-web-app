@@ -6,16 +6,16 @@ export function isValidZip(zip) {
 export function showAlert(message, className) {
   //create div
   const div = document.createElement("div");
-  //add classes
+  //add Classes
   div.className = `alert alert-${className}`;
-  //add text
+  //add Text
   div.appendChild(document.createTextNode(message));
-  //get container
+  //get Container
   const container = document.querySelector(".container");
-  //get form
+  //get Form
   const form = document.querySelector("#pet-form");
   //insert alert
   container.insertBefore(div, form);
-  //set timeout of 3s
+  //set Timeout of 3s
   setTimeout(() => document.querySelector(".alert").remove(), 3000);
 }
